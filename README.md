@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=200&section=header&text=Hi%20There!%20👋%20I'm%20Anjali%20Jha&fontSize=40&fontAlignY=35&desc=Full-Stack%20Web%20Developer&descAlignY=60&descAlign=62" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&color=91EAE4&width=500&lines=Node.js+%F0%9F%93%8D+React+%E2%9A%99%EF%B8%8F+Java+%E2%98%84%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&color=91EAE4&width=500&lines=Node.js+%F0%9F%93%8D+React+%E2%9A%99%EF%B8%8F+Java+%E2%98%84%EF%B8%8F+Bootstrap+%F0%9F%92%BB+Tailwind+CSS+%F0%9F%8F%A0" alt="Typing SVG" />
 </div>
 
 ---
