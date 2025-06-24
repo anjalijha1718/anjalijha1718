@@ -49,14 +49,14 @@ I'm always excited to work on new technologies and improve performance, scalabil
 
 ## 📫 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/anjali-jha-824b0a257)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anjali-jha-824b0a257)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://tinyurl.com/Anjaliportfolio)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajha96267@gmail.com)
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <p><strong>💼 I have experience working as an intern at a US-based startup, where I significantly enhanced my knowledge and practical skills in React.js development by contributing to real-world projects and collaborating with global teams.</strong></p>
 </div>
 
 <!-- Footer -->
