@@ -1,16 +1,67 @@
-## Hi there 👋
 
-<!--
-**anjalijha1718/anjalijha1718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Profile Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=200&section=header&text=Hi%20There!%20👋%20I'm%20Anjali%20Jha&fontSize=40&fontAlignY=35&desc=Full-Stack%20Web%20Developer&descAlignY=60&descAlign=62" />
 
-Here are some ideas to get you started:
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&color=91EAE4&width=500&lines=React+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Node.js+%F0%9F%93%8D+Java+%E2%98%84%EF%B8%8F+Tailwind+CSS+%F0%9F%8F%A0+Bootstrap+%F0%9F%92%BB" alt="Typing SVG" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+🌟 I’m a passionate **Web Developer Engineer** with hands-on experience in building dynamic and responsive websites using:
+
+- ⚛️ **React.js** for modern front-end applications
+- 🌐 **Node.js** for robust back-end services
+- ☕ **Java** for core application logic and enterprise-level services
+- 🎨 **Bootstrap & Tailwind CSS** for clean, responsive UI/UX
+
+I'm always excited to work on new technologies and improve performance, scalability, and aesthetics of web applications.
+
+---
+
+## 🚀 Tech Stack
+
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=radical&hide_border=false" width="47%" />
+</div>
+
+---
+
+## 🧠 Recent Projects
+
+- 🎯 **HealthSense AI** – Real-time disease detection system (React + ML + Java backend)
+- 📊 **Average Calculator Microservice** – REST API to calculate streaming averages (Node.js)
+- 🛒 **StockApp** – Live stock monitoring dashboard (React + Chart.js + Tailwind)
+
+---
+
+## 📫 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:91EAE4,100:86A8E7&height=100&section=footer" />
+</div>
+
