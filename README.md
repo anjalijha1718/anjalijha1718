@@ -56,7 +56,7 @@ I'm always excited to work on new technologies and improve performance, scalabil
 ---
 
 <div align="center">
-  <p><strong>💼 I have experience working as an intern at a US-based startup, where I significantly enhanced my knowledge and practical skills in React.js development by contributing to real-world projects and collaborating with global teams.</strong></p>
+  <p><strong>💼 I have experience working as an intern at a US-based startup, where I significantly enhanced my knowledge and practical skills in React.js development by contributing to real-world projects and collaborating with teams.</strong></p>
 </div>
 
 <!-- Footer -->
