@@ -1,9 +1,8 @@
-
 <!-- Profile Header -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=200&section=header&text=Hi%20There!%20👋%20I'm%20Anjali%20Jha&fontSize=40&fontAlignY=35&desc=Full-Stack%20Web%20Developer&descAlignY=60&descAlign=62" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&color=91EAE4&width=500&lines=React+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Node.js+%F0%9F%93%8D+Java+%E2%98%84%EF%B8%8F+Tailwind+CSS+%F0%9F%8F%A0+Bootstrap+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&color=91EAE4&width=500&lines=Node.js+%F0%9F%93%8D+React+%E2%9A%99%EF%B8%8F+Java+%E2%98%84%EF%B8%8F" alt="Typing SVG" />
 </div>
 
 ---
@@ -12,10 +11,10 @@
 
 🌟 I’m a passionate **Web Developer Engineer** with hands-on experience in building dynamic and responsive websites using:
 
-- ⚛️ **React.js** for modern front-end applications
-- 🌐 **Node.js** for robust back-end services
-- ☕ **Java** for core application logic and enterprise-level services
-- 🎨 **Bootstrap & Tailwind CSS** for clean, responsive UI/UX
+- ⚛️ **React.js** for modern front-end applications  
+- 🌐 **Node.js** for robust back-end services  
+- ☕ **Java** for core application logic and enterprise-level services  
+- 🎨 **Bootstrap & Tailwind CSS** for clean, responsive UI/UX  
 
 I'm always excited to work on new technologies and improve performance, scalability, and aesthetics of web applications.
 
@@ -42,9 +41,9 @@ I'm always excited to work on new technologies and improve performance, scalabil
 
 ## 🧠 Recent Projects
 
-- 🎯 **HealthSense AI** – Real-time disease detection system (React + ML + Java backend)
-- 📊 **Average Calculator Microservice** – REST API to calculate streaming averages (Node.js)
-- 🛒 **StockApp** – Live stock monitoring dashboard (React + Chart.js + Tailwind)
+- 🎯 **HealthSense AI** – Real-time disease detection system (React + ML + Java backend)  
+- 📊 **Average Calculator Microservice** – REST API to calculate streaming averages (Node.js)  
+- 🛒 **StockApp** – Live stock monitoring dashboard (React + Chart.js + Tailwind)  
 
 ---
 
@@ -64,4 +63,3 @@ I'm always excited to work on new technologies and improve performance, scalabil
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:91EAE4,100:86A8E7&height=100&section=footer" />
 </div>
-
