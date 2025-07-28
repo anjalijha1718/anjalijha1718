@@ -30,11 +30,21 @@ I'm always excited to work on new technologies and improve performance, scalabil
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Including Private Contributions)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=radical&hide_border=false" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zeeshu911&show_icons=true&count_private=true&include_all_commits=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Zeeshu911&theme=radical&hide_border=false" width="47%" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeshu911&layout=compact&theme=radical" width="47%" />
+</div>
+
+---
+
+## 🗺️ GitHub Contribution Heatmap
+
+<div align="center">
+  <img src="https://github-contribution-grid.vercel.app/api?username=Zeeshu911&theme=react&hide_title=true&radius=10&size=medium" />
 </div>
 
 ---
@@ -49,8 +59,8 @@ I'm always excited to work on new technologies and improve performance, scalabil
 
 ## 📫 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anjali-jha-824b0a257)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://tinyurl.com/Anjaliportfolio)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anjali-jha-824b0a257)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://tinyurl.com/Anjaliportfolio)  
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajha96267@gmail.com)
 
 ---
@@ -62,4 +72,4 @@ I'm always excited to work on new technologies and improve performance, scalabil
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:91EAE4,100:86A8E7&height=100&section=footer" />
-</div> 
+</div>
