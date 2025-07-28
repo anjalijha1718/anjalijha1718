@@ -34,17 +34,8 @@ I'm always excited to work on new technologies and improve performance, scalabil
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zeeshu911&show_icons=true&count_private=true&include_all_commits=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Zeeshu911&theme=radical&hide_border=false" width="47%" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeshu911&layout=compact&theme=radical" width="47%" />
-</div>
-
----
-
-## 🗺️ GitHub Contribution Heatmap
-
-<div align="center">
-  <img src="https://github-contribution-grid.vercel.app/api?username=Zeeshu911&theme=react&hide_title=true&radius=10&size=medium" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeshu911&langs_count=10&layout=compact&theme=radical" width="47%" />
 </div>
 
 ---
