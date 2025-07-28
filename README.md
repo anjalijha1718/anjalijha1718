@@ -33,9 +33,9 @@ I'm always excited to work on new technologies and improve performance, scalabil
 ## 📊 GitHub Stats (Including Private Contributions)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zeeshu911&show_icons=true&count_private=true&include_all_commits=true&theme=radical" width="47%" />
+  <img alt="Anjali Jha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Zeeshu911&show_icons=true&count_private=true&include_all_commits=true&theme=radical&title_color=ffffff&text_color=c9d1d9" width="47%" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeshu911&langs_count=10&layout=compact&theme=radical" width="47%" />
+  <img alt="Anjali Jha's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeshu911&langs_count=10&layout=compact&theme=radical&title_color=ffffff&text_color=c9d1d9" width="47%" />
 </div>
 
 ---
