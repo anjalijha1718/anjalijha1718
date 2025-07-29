@@ -30,20 +30,13 @@ I'm always excited to work on new technologies and improve performance, scalabil
 
 ---
 
-## 📊 GitHub Activity Summary
-
-- **Total Stars Earned**: 609  
-- **Total Commits**: 788  
-- **Total Pull Requests**: 0  
-- **Total Issues Raised**: 0  
-- **Repositories Contributed to (Past Year)**: 0  
-
----
-
 ## 🔥 Most Used Languages
 
 - **JavaScript** – 81.16%  
 - **CSS** – 18.10%  
+- **HTML** – 45%  
+- **Python** – 30%  
+- **Node.js** – 30%  
 
 ---
 
